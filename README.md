@@ -13,3 +13,5 @@ errors you may encounter
  a little gotcha from your favourite ORM
  - [5 Common spring transactional pitfalls](https://codete.com/blog/5-common-spring-transactional-pitfalls/)
  details some of the inner workings and non-obvious pitfalls about the @transactional tag in spring
+ - [Spring transactional propagation](https://dzone.com/articles/spring-transaction-propagation)
+ shows how each of the @Transactional(propegation = ...) works
