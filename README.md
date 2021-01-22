@@ -11,3 +11,5 @@ errors you may encounter
  self explanatory, shows using cascade in many-to-one relation is most often a mistake!
  - [Hibernate many-to-one ignores lazy-load](https://stackoverflow.com/questions/17155452/hibernate-lazy-loading-for-reverse-one-to-one-workaround-how-does-this-work)
  a little gotcha from your favourite ORM
+ - [5 Common spring transactional pitfalls](https://codete.com/blog/5-common-spring-transactional-pitfalls/)
+ details some of the inner workings and non-obvious pitfalls about the @transactional tag in spring
