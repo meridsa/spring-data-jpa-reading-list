@@ -15,3 +15,5 @@ errors you may encounter
  details some of the inner workings and non-obvious pitfalls about the @transactional tag in spring
  - [Spring transactional propagation](https://dzone.com/articles/spring-transaction-propagation)
  shows how each of the @Transactional(propegation = ...) works
+- [Spring Transaction Management in depth](https://www.marcobehler.com/guides/spring-transaction-management-transactional-in-depth)
+Really thorough overview of spring transaction management, not specific to jpa or jdbc.
