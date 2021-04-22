@@ -1,3 +1,7 @@
+# Understanding Spring
+
+ - [Spring proxying: Transactions, caching and AOP](https://spring.io/blog/2012/05/23/transactions-caching-and-aop-understanding-proxy-usage-in-spring) excellent overview of how proxying in spring works. This in turn leads to difficulties with leaky abstractions.
+
 # Understanding Spring Data JPA
 
 Not as easy an undertaking as desired but here some supplementary 
